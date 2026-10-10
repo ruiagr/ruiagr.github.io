@@ -1,0 +1,26 @@
+O Meu Blog de Matemática e Estatística
+
+Bem-vindos ao meu Espaço de Conhecimento
+
+Este é o meu primeiro artigo de blog gerado em modo 100% offline a partir do meu Emacs 30! 
+
+Exemplo Prático: Cálculo de Médias no R
+
+Podemos embutir blocos vivos de código estatístico diretamente nas nossas publicações: 
+
+notas <- c(15, 18, 12, 14, 16)
+cat("Média da Turma:", mean(notas), "valores\n")
+
+Média da Turma: 15 valores
+
+Equações Geométricas Nativas
+
+O interpretador do Org também converte equações LaTeX automaticamente: 
+
+\[A = \pi \cdot r^2\] 
+
+Author: Prof. Rui Rodrigues
+
+Created: 2026-10-10 Sat 15:21
+
+Validate
